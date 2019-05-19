@@ -1,2 +1,2 @@
 # catchemcats
-catchemcats source
+catchemcats scripts
